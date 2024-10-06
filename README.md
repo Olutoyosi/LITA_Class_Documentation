@@ -21,3 +21,25 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
  1. Data loading and Inspection
  2. Handling missing variables
  3. Data Cleaning and Formatting
+
+#Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- What product are top sellers
+- What are the products on peak sales?
+
+  ### Data Analysis
+  This is where we include some basic lines of code or queries or even some of the DAX expressions used during analysis;
+
+  ```SQL
+  ALTER TABLE EMPLOYEE
+  ADD AGE AS DATEDIFF(YEAR, Date_of_Birth, Hiredate) -
+   CASE
+       WHEN MONTH(Hiredate) < month(Date_of_birth)
+	   OR (MONTH(Hiredate) = month(Date_of_birth)
+	   AND DAY(Hiredate) < DAY(Date_of_birth))
+	THEN 1
+	ELSE 0
+  END
+  ```
+  
