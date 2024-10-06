@@ -2,6 +2,14 @@
 
 ### Project Title : Data Analysis
 ---
+[Project Overview](#project-overview)
+Data Sources
+Tools Used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
+
 ### Project Overview
 ---
 This project is aimed at me learning Data analysis as a skill, which is estabilished by Ladies in tech africa initiative, in this project i am able to learn how to sort,clean,analyze different types of data with the aim of helping a future employer to make informed decisions on their project/business.
@@ -53,3 +61,9 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ---
 ![11](https://github.com/user-attachments/assets/7e87e95f-46e2-459e-aed3-87ec42058e36)
 
+✈️
+⛹️‍♀️
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
