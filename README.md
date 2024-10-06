@@ -30,8 +30,8 @@ This project is aimed at me learning Data analysis as a skill, which is estabili
     1. For Data Cleaning
     2. For Analysis
     3. For Visualization
- - SQL- Structured Query Language for Querying of Data
- - Github- for portfolio Building
+ - SQL- Structured Query Language for Querying of Data [Download Here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+ - Github- for portfolio Building [Download Here](https://github.com)
 
 ### Data Cleaning and Preparations
 ---
