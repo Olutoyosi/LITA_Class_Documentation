@@ -64,6 +64,8 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   ```
 ![Untitled](https://github.com/user-attachments/assets/476c4c1f-bdeb-43ab-9a56-2e7e477214aa)
 
+![11](https://github.com/user-attachments/assets/9f7e1edd-1250-4c65-a283-e95d9b10eccb)
+
 ### Data Visualization
 ---
 
