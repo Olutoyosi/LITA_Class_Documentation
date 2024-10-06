@@ -43,3 +43,4 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   END
   ```
   
+### Data Visualization
