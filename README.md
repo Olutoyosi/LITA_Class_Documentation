@@ -3,12 +3,12 @@
 ### Project Title : Data Analysis
 ---
 [Project Overview](#project-overview)
-Data Sources
-Tools Used
-Data Cleaning and Preparations
-Exploratory Data Analysis
-Data Analysis
-Data Visualization
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparations](#data-cleaning-and-data-ananlysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
