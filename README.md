@@ -1,3 +1,14 @@
 # LITA_Class_Documentation
-This is where i documented my first project while learning Data Analysis with the Incubator Hub.
- 
+
+### Project Title : Data Analysis
+
+### Project Overview
+This project is aimed at me learning Data analysis as a skill, which is estabilished by Ladies in tech africa initiative, in this project i am able to learn how to sort,clean,analyze different types of data with the aim of helping a future employer to make informed decisions on their project/business.
+
+### Data Sources
+ The primary source of data used is Data LITA.csv and this is not an open source data, it was shared by the tutor as a learing data .
+
+ ### Tools Used
+ - Microsoft Excel for Data Cleaning, Analysis and Visualization
+ - SQL- Structured Query Language for Querying of Data
+ - Github- for portfolio Building
